@@ -1,0 +1,14 @@
+{
+  "name": "pagapi",
+  "version": "1.0.0",
+  "description": "primeira api desenvolvida em nodejs com mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Bueno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
